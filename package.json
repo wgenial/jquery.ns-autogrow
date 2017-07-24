@@ -1,6 +1,6 @@
 {
   "name": "jquery.ns-autogrow",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "Automatically adjust textarea height based on user input. Non-sucking version.",
   "main": "dist/jquery.ns-autogrow.js",
   "keywords": [
@@ -30,7 +30,7 @@
     "url": "https://github.com/ro31337/jquery.ns-autogrow/issues"
   },
   "dependencies": {
-    "jquery": "^1.12.4"
+    "jquery": "^3.2.1"
   },
   "devDependencies": {
     "coffee-script": "^1.10.0",
